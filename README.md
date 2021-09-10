@@ -1,2 +1,4 @@
-# spotify-account-creator
-Automate registering user accounts on Spotify.
+<div align="center">
+  <h1>Spotify Account Creator</h1>
+  <p>Automate it!</p>
+</div>
